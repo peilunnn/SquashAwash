@@ -3,7 +3,8 @@
 
    <body>
 <p align="center">
-      <img src="file:///C:/Users/peilu/Videos/Captures/SquashAwash%20_%20SIMMER.io%20-%20Google%20Chrome%2030_6_2020%2012_18_30%20pm.png" width="350"
+      [screenshot](peilunnn.github.com/SquashAwash/img/SquashAwash screenshot.png)
+   width="350"
          height="550">
    </body>
 </html>
