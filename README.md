@@ -3,7 +3,7 @@
 
    <body>
 <p align="center">
-      [screenshot](peilunnn.github.com/SquashAwash/img/SquashAwash screenshot.png)
+      [screenshot](peilunnn.github.com/SquashAwash/img/SquashAwash%20screenshot.png)
    </p>
    </body>
 </html>
