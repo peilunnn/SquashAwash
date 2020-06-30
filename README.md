@@ -3,7 +3,7 @@
 
    <body>
 <p align="center">
-     <a href="https://simmer.io/@peilunnn/squashawash">
+     <a href="https://simmer.io/@peilunnn/squashawash" target="_blank">
     <img src="images/SquashAwashSS.png" /><br><br>
   </a>
    </body>
