@@ -4,8 +4,7 @@
    <body>
 <p align="center">
       [screenshot](peilunnn.github.com/SquashAwash/img/SquashAwash screenshot.png)
-   width="350"
-         height="550">
+   </p>
    </body>
 </html>
 
