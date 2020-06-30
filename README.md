@@ -37,15 +37,18 @@
 
 **Player movement:** WASD or arrow keys
 <br />
+<br />
 **Serving:** hold J and move the red target using WASD or arrow keys, then release to do a lob serve OR hold K and move the red target using WASD or arrow keys, then release to do a hard serve.
 <br />
+<br />
 **While ball is in play:** hold H and move the red target using WASD or arrow keys
+<br />
 <br />
 **If you lose the rally:** you will have 2 to 6 seconds before the bot will serve
 <br /><br />
 
 Play it here: https://simmer.io/@peilunnn/squashawash
-<br /><br /><br /><br />
+<br /><br /><br />
 
 ## Social Media :fire:
 
