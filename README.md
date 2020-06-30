@@ -3,8 +3,9 @@
 
    <body>
 <p align="center">
-      <img src="images/SquashAwashSS.png" width="450"
-        >
+     <a href="https://simmer.io/@peilunnn/squashawash">
+    <img src="images/SquashAwashSS.png" /><br><br>
+  </a>
    </body>
 </html>
 
