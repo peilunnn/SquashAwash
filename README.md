@@ -3,14 +3,14 @@
 
    <body>
 <p align="center">
-      <img src="https://ibb.co/cx90PLF" width="350"
+      <img src="file:///C:/Users/peilu/Videos/Captures/SquashAwash%20_%20SIMMER.io%20-%20Google%20Chrome%2030_6_2020%2012_18_30%20pm.png" width="350"
          height="550">
    </body>
 </html>
 
   <!-- TITLE -->
 
-  <h1 align="center"> :running: SquashAwash :running:</a></h1>
+  <h1 align="center"> :ocean: SquashAwash :ocean:</a></h1>
   <p align="center">
     A 3D Squash video game against a bot. Written in C# and rendered in Unity. 
     <br />
