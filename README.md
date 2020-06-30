@@ -3,8 +3,8 @@
 
    <body>
 <p align="center">
-      ![](images/SquashAwashSS.png)
-   </p>
+      <img src="images/SquashAwashSS.png" width="450"
+        >
    </body>
 </html>
 
