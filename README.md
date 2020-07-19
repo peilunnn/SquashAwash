@@ -57,4 +57,4 @@ Play it here: https://simmer.io/@peilunnn/squashawash
 
 🔗 [LinkedIn](https://www.linkedin.com/in/pei-lun-tan/)
 
-📧 [Email](mailto:peilunnn@gmail.com)
+📧 [Email](mailto:PTAN065@e.ntu.edu.sg)
