@@ -5,9 +5,7 @@ using UnityEngine;
 public class Player : Capsule
 {
     public ParticleSystem confetti;
-
     public Transform aimTarget;
-
     bool aiming;
 
 
@@ -114,13 +112,10 @@ public class Player : Capsule
 
             Vector3 playerToBall = GameObject.Find("ball").transform.position - transform.position;
             if (playerToBall.x >= 0)
-            {
                 animator.Play("forehand");
-            }
             else
-            {
                 animator.Play("backhand");
-            }
+
             // SET HITTER TO PLAYER
             GameObject.Find("ball").GetComponent<Ball>().playerIsHitter = true;
         }
