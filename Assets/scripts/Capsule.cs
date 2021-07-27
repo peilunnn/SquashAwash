@@ -24,7 +24,8 @@ public class Capsule : MonoBehaviour {
 
 
 	// Update is called once per frame
-	public void Update () {
+	public void Update () 
+	{
 		// PREVENT CAPSULE FROM PASSING THROUGH WALLS
 		Vector3 capsulePos = transform.position;
 		if (capsulePos.x < -12.11f) {
