@@ -633,9 +633,9 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 31e76048-dae9-48b0-a30b-495da2abfc68
+  cloudProjectId: 30dc8e61-e6e8-49e7-bf7c-0b84a2fddf7f
   framebufferDepthMemorylessMode: 0
-  projectName: Squash
+  projectName: SquashAwash
   organizationId: peilunnn
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
